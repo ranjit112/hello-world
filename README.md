@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+just checking out this repository how its work
